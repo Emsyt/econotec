@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<facturaElectronicaCompraVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturaElectronicaCompraVenta.xsd">
+  <cabecera>
+    <nitEmisor>6869260018</nitEmisor>
+    <razonSocialEmisor>MENDOZA VISCARRA JESUS</razonSocialEmisor>
+    <municipio>La Paz</municipio>
+    <telefono>0</telefono>
+    <numeroFactura>1</numeroFactura>
+    <cuf>1D6038B3F1F8DD40E8A701B372920D294E2459E06A180CE0BD27DBFD74</cuf>
+    <cufd>BQT5COcOTKEdBNzENGRDFEMTZERjY=QlVqYzFMZEhYVUFcwNERBOUVCMkUwR</cufd>
+    <codigoSucursal>0</codigoSucursal>
+    <direccion>CALLE FIGUEROA NRO.695 EDIFICIO SAN JUAN PISO 4 DPTO.402 ZONA EL ROSARIO</direccion>
+    <codigoPuntoVenta>0</codigoPuntoVenta>
+    <fechaEmision>2023-07-28T11:56:27.474</fechaEmision>
+    <nombreRazonSocial>SIN NOMBRE</nombreRazonSocial>
+    <codigoTipoDocumentoIdentidad>1</codigoTipoDocumentoIdentidad>
+    <numeroDocumento>777</numeroDocumento>
+    <complemento xsi:nil="true"/>
+    <codigoCliente>00000001</codigoCliente>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <numeroTarjeta xsi:nil="true"/>
+    <montoTotal>40.00</montoTotal>
+    <montoTotalSujetoIva>40.00</montoTotalSujetoIva>
+    <codigoMoneda>1</codigoMoneda>
+    <tipoCambio>1</tipoCambio>
+    <montoTotalMoneda>40.00</montoTotalMoneda>
+    <montoGiftCard xsi:nil="true"/>
+    <descuentoAdicional>0.00</descuentoAdicional>
+    <codigoExcepcion xsi:nil="true"/>
+    <cafc xsi:nil="true"/>
+    <leyenda>Ley N° 453: Tienes derecho a recibir información sobre las características y contenidos de los productos que consumes.</leyenda>
+    <usuario>admin</usuario>
+    <codigoDocumentoSector>1</codigoDocumentoSector>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>453000</actividadEconomica>
+    <codigoProductoSin>49210</codigoProductoSin>
+    <codigoProducto>0001</codigoProducto>
+    <descripcion>PRUEBA</descripcion>
+    <cantidad>2</cantidad>
+    <unidadMedida>57</unidadMedida>
+    <precioUnitario>20.00</precioUnitario>
+    <montoDescuento>0.00</montoDescuento>
+    <subTotal>40.00</subTotal>
+    <numeroSerie xsi:nil="true"/>
+    <numeroImei xsi:nil="true"/>
+  </detalle>
+</facturaElectronicaCompraVenta>

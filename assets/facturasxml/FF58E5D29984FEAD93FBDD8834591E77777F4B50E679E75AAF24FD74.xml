@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<facturaComputarizadaCompraVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturaComputarizadaCompraVenta.xsd">
+  <cabecera>
+    <nitEmisor>233244021</nitEmisor>
+    <razonSocialEmisor>EXPERT INOVA NETWORKS S.R.L.</razonSocialEmisor>
+    <municipio>LA PAZ - BOLIVIA</municipio>
+    <telefono>22378456</telefono>
+    <numeroFactura>8</numeroFactura>
+    <cuf>FF58E5D29984FEAD93FBDD8834591E77777F4B50E679E75AAF24FD74</cuf>
+    <cufd>CQUFLQ3NnWEFBNzTFERDA2NDRFMTc=Q8KhQXFZTERDWFVZGNjRBMDU5NjQ5M</cufd>
+    <codigoSucursal>0</codigoSucursal>
+    <direccion>CALLE MEXICO NRO.1418 EDIFICIO GALERIA CRISTINA PISO PB DPTO. LOC. A ZONA SAN PEDRO</direccion>
+    <codigoPuntoVenta>1</codigoPuntoVenta>
+    <fechaEmision>2023-02-02T11:25:47.123</fechaEmision>
+    <nombreRazonSocial>AAAA</nombreRazonSocial>
+    <codigoTipoDocumentoIdentidad>1</codigoTipoDocumentoIdentidad>
+    <numeroDocumento>12344</numeroDocumento>
+    <complemento xsi:nil="true"/>
+    <codigoCliente>51158927</codigoCliente>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <numeroTarjeta xsi:nil="true"/>
+    <montoTotal>3.45</montoTotal>
+    <montoTotalSujetoIva>3.45</montoTotalSujetoIva>
+    <codigoMoneda>1</codigoMoneda>
+    <tipoCambio>1</tipoCambio>
+    <montoTotalMoneda>3.45</montoTotalMoneda>
+    <montoGiftCard xsi:nil="true"/>
+    <descuentoAdicional>0.00</descuentoAdicional>
+    <codigoExcepcion xsi:nil="true"/>
+    <cafc>101490AAAEE8C</cafc>
+    <leyenda>Ley N° 453: Los servicios deben suministrarse en condiciones de inocuidad, calidad y seguridad.</leyenda>
+    <usuario>prueba.prueba</usuario>
+    <codigoDocumentoSector>1</codigoDocumentoSector>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>464300</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>12346</codigoProducto>
+    <descripcion>TORNILLOS</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>57</unidadMedida>
+    <precioUnitario>3.45</precioUnitario>
+    <montoDescuento>0.00</montoDescuento>
+    <subTotal>3.45</subTotal>
+    <numeroSerie xsi:nil="true"/>
+    <numeroImei xsi:nil="true"/>
+  </detalle>
+</facturaComputarizadaCompraVenta>

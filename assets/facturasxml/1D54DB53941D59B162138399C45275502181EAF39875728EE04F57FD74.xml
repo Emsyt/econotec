@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<facturaComputarizadaCompraVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturaComputarizadaCompraVenta.xsd">
+  <cabecera>
+    <nitEmisor>6858879016</nitEmisor>
+    <razonSocialEmisor>MENDOZA VISCARRA JESUS</razonSocialEmisor>
+    <municipio>La Paz</municipio>
+    <telefono>0</telefono>
+    <numeroFactura>28</numeroFactura>
+    <cuf>1D54DB53941D59B162138399C45275502181EAF39875728EE04F57FD74</cuf>
+    <cufd>BQTlCKycuR0E=NzTZFNURGQUE3RTc=Q3lfcDFFV0VYVUFIzNTc5NDUxN0EwR</cufd>
+    <codigoSucursal>0</codigoSucursal>
+    <direccion>CALLE FIGUEROA NRO.692 EDIFICIO SAN JUAN PISO 4 DPTO. 402 ZONA EL ROSARIO</direccion>
+    <codigoPuntoVenta>0</codigoPuntoVenta>
+    <fechaEmision>2023-04-21T10:18:38.017</fechaEmision>
+    <nombreRazonSocial>SIN NOMBRE</nombreRazonSocial>
+    <codigoTipoDocumentoIdentidad>1</codigoTipoDocumentoIdentidad>
+    <numeroDocumento>777</numeroDocumento>
+    <complemento xsi:nil="true"/>
+    <codigoCliente>00000116</codigoCliente>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <numeroTarjeta xsi:nil="true"/>
+    <montoTotal>60.00</montoTotal>
+    <montoTotalSujetoIva>60.00</montoTotalSujetoIva>
+    <codigoMoneda>1</codigoMoneda>
+    <tipoCambio>1</tipoCambio>
+    <montoTotalMoneda>60.00</montoTotalMoneda>
+    <montoGiftCard xsi:nil="true"/>
+    <descuentoAdicional>0.00</descuentoAdicional>
+    <codigoExcepcion xsi:nil="true"/>
+    <cafc xsi:nil="true"/>
+    <leyenda>Ley N° 453: En caso de incumplimiento a lo ofertado o convenido, el proveedor debe reparar o sustituir el producto..</leyenda>
+    <usuario>admin</usuario>
+    <codigoDocumentoSector>1</codigoDocumentoSector>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>620900</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>7798304851321</codigoProducto>
+    <descripcion>Papas Pre Fitas 700g.</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>58</unidadMedida>
+    <precioUnitario>60.00</precioUnitario>
+    <montoDescuento>0.00</montoDescuento>
+    <subTotal>60.00</subTotal>
+    <numeroSerie xsi:nil="true"/>
+    <numeroImei xsi:nil="true"/>
+  </detalle>
+</facturaComputarizadaCompraVenta>

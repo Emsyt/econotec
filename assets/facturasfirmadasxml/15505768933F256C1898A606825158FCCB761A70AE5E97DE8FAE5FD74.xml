@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<facturaElectronicaCompraVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturaElectronicaCompraVenta.xsd">
+  <cabecera>
+    <nitEmisor>311502029</nitEmisor>
+    <razonSocialEmisor>DAO SYSTEMS LATINO AMERICA S.R.L.</razonSocialEmisor>
+    <municipio>LA PAZ - BOLIVIA</municipio>
+    <telefono>22378456</telefono>
+    <numeroFactura>17</numeroFactura>
+    <cuf>15505768933F256C1898A606825158FCCB761A70AE5E97DE8FAE5FD74</cuf>
+    <cufd>BQXxDQ1BmQUE=NzzQxRTFFNkNGRjc=Qj40eVJMV0RYVUJcwNERBQUJDRDBDN</cufd>
+    <codigoSucursal>0</codigoSucursal>
+    <direccion>CALLE MEXICO NRO.1418 EDIFICIO GALERIA CRISTINA PISO PB DPTO. LOC. A ZONA SAN PEDRO</direccion>
+    <codigoPuntoVenta>1</codigoPuntoVenta>
+    <fechaEmision>2023-03-21T12:00:40.123</fechaEmision>
+    <nombreRazonSocial>SIN NOMBRE</nombreRazonSocial>
+    <codigoTipoDocumentoIdentidad>1</codigoTipoDocumentoIdentidad>
+    <numeroDocumento>777</numeroDocumento>
+    <complemento xsi:nil="true"/>
+    <codigoCliente>777888</codigoCliente>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <numeroTarjeta xsi:nil="true"/>
+    <montoTotal>1.41</montoTotal>
+    <montoTotalSujetoIva>1.41</montoTotalSujetoIva>
+    <codigoMoneda>1</codigoMoneda>
+    <tipoCambio>1</tipoCambio>
+    <montoTotalMoneda>1.41</montoTotalMoneda>
+    <montoGiftCard xsi:nil="true"/>
+    <descuentoAdicional>0.00</descuentoAdicional>
+    <codigoExcepcion xsi:nil="true"/>
+    <cafc xsi:nil="true"/>
+    <leyenda>Ley N° 453: Tienes derecho a recibir información sobre las características y contenidos de los productos que consumes.</leyenda>
+    <usuario>prueba.prueba</usuario>
+    <codigoDocumentoSector>1</codigoDocumentoSector>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>620000</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>7771214005251</codigoProducto>
+    <descripcion>Mayonesa Picante de 230cm3</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>57</unidadMedida>
+    <precioUnitario>1.41</precioUnitario>
+    <montoDescuento>0.00</montoDescuento>
+    <subTotal>1.41</subTotal>
+    <numeroSerie xsi:nil="true"/>
+    <numeroImei xsi:nil="true"/>
+  </detalle>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference URI=""><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>O1jWsbhfV686VT1/FCDKb4yZzrnX4PRuE1kde0VmojQ=</ds:DigestValue></ds:Reference></ds:SignedInfo><SignatureValue>siDTl9btElliNzrSQ7Vdm4tw5DoLkeKkPSci4KjDZ71G+GR6H7mM0b8j4sLK7YspAGqSIodHBB+kRDfgG2vFTCnDuHdnejGpzti22KyIuFLWMUl7mCAVg/QeykNopKRnUw0U+qq2y2KuwyvCxOR1XUxTs1a7CnVSJ3Mxq2IinbTK7Au41oR/rJ/S1UuSpVWN4/1afd/5nc1M0akVoSxlmNShXURiKiuRBxCwXOTGFmKyBvBhb5gTqEpSpao+8vKTWQ0GEn1joJjL6qu5QpIq390EHOz2xn7Jt1pdSoYYLObsTCb/7jA7TYuGCYNRibKE/2iZQbHPYy6rkjb6hQSJlA==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIExDCCA6ygAwIBAgIIcA1p4YQtrAAwDQYJKoZIhvcNAQEFBQAwgbUxCzAJBgNV
+BAYTAkJPMQ8wDQYDVQQIDAZMQSBQQVoxDzANBgNVBAcMBkxBIFBBWjEeMBwGA1UE
+CgwVRW50aWRhZCBDZXJ0aWZpY2Fkb3JhMQwwCgYDVQQLDANVSUQxEzARBgNVBAMM
+CkFEU0lCIEZBS0UxJDAiBgkqhkiG9w0BCQEWFW5jb2FyaXRlQGFkc2liLmdvYi5i
+bzEbMBkGA1UEBRMSNzM1MjQyNDI0NDY0NjM0MjM0MB4XDTIzMDIyNDE5MjkwMloX
+DTIzMDMyNjE5MjkwMlowgfYxHTAbBgNVBAMTFEJSQVlBTiBKQU5DTyBDQUhVQU5B
+MSkwJwYDVQQKEyBEQU8gU1lTVEVNUyBMQVRJTk8gQU1FUklDQSBTLlIuTDETMBEG
+A1UECxMKREFPU1lTVEVNUzEWMBQGA1UEDBMNREVTQVJST0xMQURPUjELMAkGA1UE
+BhMCQk8xCzAJBgNVBC4TAkNJMRUwEwYHKwYBAQEBABMIMTIzOTA0NjExETAPBgoJ
+kiaJk/IsZAEBEwEwMRIwEAYDVQQFEwkzMTE1MDIwMjkxJTAjBgkqhkiG9w0BCQEW
+FmJqYW5jb0BlY29ub3RlYy5jb20uYm8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDFLzDbfq0PPLo4fFgYqxq9WtysNjK0wmisOe5ZI3KxeFtPKvpMO9HP
+PzXFUcWJNVYgcA/evh3YoCwLra6jst7/gEWJl8bnSveLK7ylm1RL9dNg9AxIpwsj
+zWij2ZyJjKIz+YPdw9XJm6IHNq5SWVmc98kIi/ZRigDOr1SQmzN4y80gO6URBsI1
+T4p6oIJ1duCr/WVaOUGfyMALG8tSdtQAYnEaK3UlNpAAdhaa3YN9HQMhS3MD7QCg
+ZOrO3UpXbU3AVNXHxdCD1lZDltUb1DuElPEzC67+nNmqS3wFVg3s90XMpjsKOiOw
+B1ztiQgipJA3Crela72Qo7/78HoQHbBVAgMBAAGjgZQwgZEwDAYDVR0TBAUwAwEB
+/zALBgNVHQ8EBAMCBPAwIQYDVR0RBBowGIYWYmphbmNvQGVjb25vdGVjLmNvbS5i
+bzBRBgNVHR8ESjBIMEagRKBChkBodHRwczovL2Rlc2Fycm9sbG8uYWRzaWIuZ29i
+LmJvL2Rlc2FfYWdlbmNpYS9saXN0X3Jldm9jYWNpb24uY3JsMA0GCSqGSIb3DQEB
+BQUAA4IBAQA9sEV1PICJTH60WHRSxKW5CAT+rypy4OJKrDEEaEqBdFRGKMzf7ZwT
+BNXCFgAGQQzjL0+MCBY+AEWTS2UUKO7QF2cXzeYIsa/N0QD9PdK/jhT3rj35w5m5
+EC9fxFvyUajOtutjO0wAU7CqYx2rLW4RLLZing5YvvjLtOxNJb7U1S9UgqyEfEl2
+oeYSI9z4GTFbSmdETX1iSIAGoRtJxSLNoJWizZ5cs2L199C9ABAdYos0m/yrrjlL
+rZqxtIdaJ/nP77COTAv3pWhdbW5AdHDQqYnRiQ6YgbvWHl9ma16KrobZEBXVKh3n
+fU2mYgjlcKZSWVHymLZqrNWLWQCNSVhC
+</X509Certificate></X509Data></KeyInfo></Signature></facturaElectronicaCompraVenta>

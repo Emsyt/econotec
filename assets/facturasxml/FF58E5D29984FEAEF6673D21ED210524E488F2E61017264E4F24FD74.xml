@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<facturaComputarizadaCompraVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturaComputarizadaCompraVenta.xsd">
+  <cabecera>
+    <nitEmisor>233244021</nitEmisor>
+    <razonSocialEmisor>EXPERT INOVA NETWORKS S.R.L.</razonSocialEmisor>
+    <municipio>LA PAZ - BOLIVIA</municipio>
+    <telefono>22378456</telefono>
+    <numeroFactura>7</numeroFactura>
+    <cuf>FF58E5D29984FEAEF6673D21ED210524E488F2E61017264E4F24FD74</cuf>
+    <cufd>BQUtDc2dYQUE=NzTFERDA2NDRFMTc=Q2ViQThCRENYVUFZGNjRBMDU5NjQ5M</cufd>
+    <codigoSucursal>0</codigoSucursal>
+    <direccion>CALLE MEXICO NRO.1418 EDIFICIO GALERIA CRISTINA PISO PB DPTO. LOC. A ZONA SAN PEDRO</direccion>
+    <codigoPuntoVenta>0</codigoPuntoVenta>
+    <fechaEmision>2023-02-02T11:43:02.123</fechaEmision>
+    <nombreRazonSocial>SIN NOMBRE</nombreRazonSocial>
+    <codigoTipoDocumentoIdentidad>1</codigoTipoDocumentoIdentidad>
+    <numeroDocumento>777</numeroDocumento>
+    <complemento xsi:nil="true"/>
+    <codigoCliente>777888</codigoCliente>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <numeroTarjeta xsi:nil="true"/>
+    <montoTotal>0.16</montoTotal>
+    <montoTotalSujetoIva>0.16</montoTotalSujetoIva>
+    <codigoMoneda>1</codigoMoneda>
+    <tipoCambio>1</tipoCambio>
+    <montoTotalMoneda>0.16</montoTotalMoneda>
+    <montoGiftCard xsi:nil="true"/>
+    <descuentoAdicional>0.00</descuentoAdicional>
+    <codigoExcepcion xsi:nil="true"/>
+    <cafc xsi:nil="true"/>
+    <leyenda>Ley N° 453: Tienes derecho a recibir información sobre las características y contenidos de los productos que consumes.</leyenda>
+    <usuario>admin</usuario>
+    <codigoDocumentoSector>1</codigoDocumentoSector>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>464300</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>7501059275539</codigoProducto>
+    <descripcion>CAFE CAPPUCCINO DE 120 GR</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>57</unidadMedida>
+    <precioUnitario>0.16</precioUnitario>
+    <montoDescuento>0.00</montoDescuento>
+    <subTotal>0.16</subTotal>
+    <numeroSerie xsi:nil="true"/>
+    <numeroImei xsi:nil="true"/>
+  </detalle>
+</facturaComputarizadaCompraVenta>

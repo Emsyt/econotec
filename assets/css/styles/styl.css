@@ -1,0 +1,36 @@
+
+.estilo_textos { background: #dedddd; font-size: 1.2em; height: 2em; margin: 0; padding: 0; }
+
+.estilo_labels { color: rgba(0,0,0, 1); font-size: 5em; }
+
+.texto_titulos { color: #01109C; }
+
+.estilo_area { background: #dedddd; }
+
+.stiloCheck { font-size: 1.3em; }
+
+.tdAncho10 { width: 10%; }
+.tdAncho20 { width: 20%; }
+.tdAncho30 { width: 30%; }
+.tdAncho40 { width: 40%; }
+.tdAncho50 { width: 50%; }
+.tdAncho60 { width: 60%; }
+.tdAncho70 { width: 70%; }
+.tdAncho80 { width: 80%; }
+.tdAncho90 { width: 90%; }
+.tdAncho100 { width: 100%; }
+.tdAncho15 { width: 15%; }
+.tdAncho25 { width: 25%; }
+.tdAncho35 { width: 35%; }
+.tdAncho45 { width: 45%; }
+.tdAncho55 { width: 55%; }
+.tdAncho65 { width: 65%; }
+.tdAncho75 { width: 75%; }
+.tdAncho85 { width: 85%; }
+.tdAncho95 { width: 95%; }
+
+.icon-pencil, .icon-libreoffice, .icon-binoculars, .icon-stack, .icon-files-empty { margin: 0; padding: 0; color: #fff; font-size: 3em; }
+.icon-pencil1, .icon-libreoffice1, .icon-binoculars1, .icon-stack1, .icon-files-empty1 { margin: 0; padding: 0; color: #fff; font-size: 1em; }
+.rounded { border-radius: 5px; padding-bottom: 0px; padding-top: 0px}
+
+.modal-lg-grande { width: 80%; }

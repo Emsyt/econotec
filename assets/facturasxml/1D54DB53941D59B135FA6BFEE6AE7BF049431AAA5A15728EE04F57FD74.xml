@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<facturaComputarizadaCompraVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturaComputarizadaCompraVenta.xsd">
+  <cabecera>
+    <nitEmisor>6858879016</nitEmisor>
+    <razonSocialEmisor>MENDOZA VISCARRA JESUS</razonSocialEmisor>
+    <municipio>La Paz</municipio>
+    <telefono>0</telefono>
+    <numeroFactura>25</numeroFactura>
+    <cuf>1D54DB53941D59B135FA6BFEE6AE7BF049431AAA5A15728EE04F57FD74</cuf>
+    <cufd>BQTlCKycuR0E=NzTZFNURGQUE3RTc=Q3lfcDFFV0VYVUFIzNTc5NDUxN0EwR</cufd>
+    <codigoSucursal>0</codigoSucursal>
+    <direccion>CALLE FIGUEROA NRO.692 EDIFICIO SAN JUAN PISO 4 DPTO. 402 ZONA EL ROSARIO</direccion>
+    <codigoPuntoVenta>0</codigoPuntoVenta>
+    <fechaEmision>2023-04-21T04:59:37.140</fechaEmision>
+    <nombreRazonSocial>BRAYAN</nombreRazonSocial>
+    <codigoTipoDocumentoIdentidad>1</codigoTipoDocumentoIdentidad>
+    <numeroDocumento>123456</numeroDocumento>
+    <complemento>78k</complemento>
+    <codigoCliente>00000102</codigoCliente>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <numeroTarjeta xsi:nil="true"/>
+    <montoTotal>40.00</montoTotal>
+    <montoTotalSujetoIva>40.00</montoTotalSujetoIva>
+    <codigoMoneda>1</codigoMoneda>
+    <tipoCambio>1</tipoCambio>
+    <montoTotalMoneda>40.00</montoTotalMoneda>
+    <montoGiftCard xsi:nil="true"/>
+    <descuentoAdicional>0.00</descuentoAdicional>
+    <codigoExcepcion xsi:nil="true"/>
+    <cafc xsi:nil="true"/>
+    <leyenda>Ley N° 453: Está prohibido importar, distribuir o comercializar productos expirados o prontos a expirar.</leyenda>
+    <usuario>admin</usuario>
+    <codigoDocumentoSector>1</codigoDocumentoSector>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>620900</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>7798304851321</codigoProducto>
+    <descripcion>Papas Pre Fitas 700g.</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>58</unidadMedida>
+    <precioUnitario>60.00</precioUnitario>
+    <montoDescuento>20.00</montoDescuento>
+    <subTotal>40.00</subTotal>
+    <numeroSerie xsi:nil="true"/>
+    <numeroImei xsi:nil="true"/>
+  </detalle>
+</facturaComputarizadaCompraVenta>

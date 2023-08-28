@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<facturaElectronicaCompraVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturaElectronicaCompraVenta.xsd">
+  <cabecera>
+    <nitEmisor>311502029</nitEmisor>
+    <razonSocialEmisor>DAO SYSTEMS LATINO AMERICA S.R.L.</razonSocialEmisor>
+    <municipio>LA PAZ - BOLIVIA</municipio>
+    <telefono>22378456</telefono>
+    <numeroFactura>48</numeroFactura>
+    <cuf>15505768933F2567B2F610A30034771B0E4649BE039C45F32AAE5FD74</cuf>
+    <cufd>BQXxDQ1BmQUE=NzzQxRTFFNkNGRjc=Qm9dOElDV0RYVUFcwNERBQUJDRDBDN</cufd>
+    <codigoSucursal>0</codigoSucursal>
+    <direccion>CALLE MEXICO NRO.1418 EDIFICIO GALERIA CRISTINA PISO PB DPTO. LOC. A ZONA SAN PEDRO</direccion>
+    <codigoPuntoVenta>0</codigoPuntoVenta>
+    <fechaEmision>2023-03-21T03:08:58.123</fechaEmision>
+    <nombreRazonSocial>SIN NOMBRE</nombreRazonSocial>
+    <codigoTipoDocumentoIdentidad>1</codigoTipoDocumentoIdentidad>
+    <numeroDocumento>777</numeroDocumento>
+    <complemento xsi:nil="true"/>
+    <codigoCliente>777888</codigoCliente>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <numeroTarjeta xsi:nil="true"/>
+    <montoTotal>1.45</montoTotal>
+    <montoTotalSujetoIva>1.45</montoTotalSujetoIva>
+    <codigoMoneda>1</codigoMoneda>
+    <tipoCambio>1</tipoCambio>
+    <montoTotalMoneda>1.45</montoTotalMoneda>
+    <montoGiftCard xsi:nil="true"/>
+    <descuentoAdicional>0.00</descuentoAdicional>
+    <codigoExcepcion xsi:nil="true"/>
+    <cafc>101AC4F7C730E</cafc>
+    <leyenda>Ley N° 453: El proveedor deberá entregar el producto en las modalidades y términos ofertados o convenidos.</leyenda>
+    <usuario>admin</usuario>
+    <codigoDocumentoSector>1</codigoDocumentoSector>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>620000</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>7779604011233</codigoProducto>
+    <descripcion>Fruti Crick de 840gr</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>57</unidadMedida>
+    <precioUnitario>1.45</precioUnitario>
+    <montoDescuento>0.00</montoDescuento>
+    <subTotal>1.45</subTotal>
+    <numeroSerie xsi:nil="true"/>
+    <numeroImei xsi:nil="true"/>
+  </detalle>
+</facturaElectronicaCompraVenta>

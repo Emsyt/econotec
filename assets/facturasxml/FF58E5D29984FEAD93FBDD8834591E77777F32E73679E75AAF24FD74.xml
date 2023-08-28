@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<facturaComputarizadaCompraVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturaComputarizadaCompraVenta.xsd">
+  <cabecera>
+    <nitEmisor>233244021</nitEmisor>
+    <razonSocialEmisor>EXPERT INOVA NETWORKS S.R.L.</razonSocialEmisor>
+    <municipio>LA PAZ - BOLIVIA</municipio>
+    <telefono>22378456</telefono>
+    <numeroFactura>7</numeroFactura>
+    <cuf>FF58E5D29984FEAD93FBDD8834591E77777F32E73679E75AAF24FD74</cuf>
+    <cufd>CQUFLQ3NnWEFBNzTFERDA2NDRFMTc=Q8KhQXFZTERDWFVZGNjRBMDU5NjQ5M</cufd>
+    <codigoSucursal>0</codigoSucursal>
+    <direccion>CALLE MEXICO NRO.1418 EDIFICIO GALERIA CRISTINA PISO PB DPTO. LOC. A ZONA SAN PEDRO</direccion>
+    <codigoPuntoVenta>1</codigoPuntoVenta>
+    <fechaEmision>2023-02-02T11:25:47.123</fechaEmision>
+    <nombreRazonSocial>SIN NOMBRE</nombreRazonSocial>
+    <codigoTipoDocumentoIdentidad>1</codigoTipoDocumentoIdentidad>
+    <numeroDocumento>777</numeroDocumento>
+    <complemento xsi:nil="true"/>
+    <codigoCliente>777888</codigoCliente>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <numeroTarjeta xsi:nil="true"/>
+    <montoTotal>1.79</montoTotal>
+    <montoTotalSujetoIva>1.79</montoTotalSujetoIva>
+    <codigoMoneda>1</codigoMoneda>
+    <tipoCambio>1</tipoCambio>
+    <montoTotalMoneda>1.79</montoTotalMoneda>
+    <montoGiftCard xsi:nil="true"/>
+    <descuentoAdicional>0.00</descuentoAdicional>
+    <codigoExcepcion xsi:nil="true"/>
+    <cafc>101490AAAEE8C</cafc>
+    <leyenda>Ley N° 453: Tienes derecho a un trato equitativo sin discriminación en la oferta de productos.</leyenda>
+    <usuario>prueba.prueba</usuario>
+    <codigoDocumentoSector>1</codigoDocumentoSector>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>464300</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>7771214004131</codigoProducto>
+    <descripcion>Tolón, Sabor Frutilla de 1000 gr</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>57</unidadMedida>
+    <precioUnitario>1.79</precioUnitario>
+    <montoDescuento>0.00</montoDescuento>
+    <subTotal>1.79</subTotal>
+    <numeroSerie xsi:nil="true"/>
+    <numeroImei xsi:nil="true"/>
+  </detalle>
+</facturaComputarizadaCompraVenta>

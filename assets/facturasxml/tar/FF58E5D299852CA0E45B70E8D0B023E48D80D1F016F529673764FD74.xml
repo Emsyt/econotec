@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<facturaComputarizadaCompraVenta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturaComputarizadaCompraVenta.xsd">
+  <cabecera>
+    <nitEmisor>233244021</nitEmisor>
+    <razonSocialEmisor>EXPERT INOVA NETWORKS S.R.L.</razonSocialEmisor>
+    <municipio>LA PAZ - BOLIVIA</municipio>
+    <telefono>22378456</telefono>
+    <numeroFactura>24</numeroFactura>
+    <cuf>FF58E5D299852CA0E45B70E8D0B023E48D80D1F016F529673764FD74</cuf>
+    <cufd>BQUtDc2dYQUE=NzTFERDA2NDRFMTc=Q2V8THJDU0NYVUFZGNjRBMDU5NjQ5M</cufd>
+    <codigoSucursal>0</codigoSucursal>
+    <direccion>CALLE MEXICO NRO.1418 EDIFICIO GALERIA CRISTINA PISO PB DPTO. LOC. A ZONA SAN PEDRO</direccion>
+    <codigoPuntoVenta>0</codigoPuntoVenta>
+    <fechaEmision>2023-02-17T02:43:19.123</fechaEmision>
+    <nombreRazonSocial>AAAA</nombreRazonSocial>
+    <codigoTipoDocumentoIdentidad>1</codigoTipoDocumentoIdentidad>
+    <numeroDocumento>12344</numeroDocumento>
+    <complemento xsi:nil="true"/>
+    <codigoCliente>51158927</codigoCliente>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <numeroTarjeta xsi:nil="true"/>
+    <montoTotal>6.46</montoTotal>
+    <montoTotalSujetoIva>6.46</montoTotalSujetoIva>
+    <codigoMoneda>1</codigoMoneda>
+    <tipoCambio>1</tipoCambio>
+    <montoTotalMoneda>6.46</montoTotalMoneda>
+    <montoGiftCard xsi:nil="true"/>
+    <descuentoAdicional>0.00</descuentoAdicional>
+    <codigoExcepcion xsi:nil="true"/>
+    <cafc>101490AAAEE8C</cafc>
+    <leyenda>Ley N° 453: El proveedor deberá entregar el producto en las modalidades y términos ofertados o convenidos.</leyenda>
+    <usuario>admin</usuario>
+    <codigoDocumentoSector>1</codigoDocumentoSector>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>464300</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>7891000286449</codigoProducto>
+    <descripcion>NESCAFE ORIGINAL DE 230 GR</descripcion>
+    <cantidad>1</cantidad>
+    <unidadMedida>57</unidadMedida>
+    <precioUnitario>1.62</precioUnitario>
+    <montoDescuento>0.00</montoDescuento>
+    <subTotal>1.62</subTotal>
+    <numeroSerie xsi:nil="true"/>
+    <numeroImei xsi:nil="true"/>
+  </detalle>
+  <detalle>
+    <actividadEconomica>464300</actividadEconomica>
+    <codigoProductoSin>99100</codigoProductoSin>
+    <codigoProducto>7779970674568</codigoProducto>
+    <descripcion>Omo Progress de 700gr</descripcion>
+    <cantidad>2</cantidad>
+    <unidadMedida>57</unidadMedida>
+    <precioUnitario>2.42</precioUnitario>
+    <montoDescuento>0.00</montoDescuento>
+    <subTotal>4.84</subTotal>
+    <numeroSerie xsi:nil="true"/>
+    <numeroImei xsi:nil="true"/>
+  </detalle>
+</facturaComputarizadaCompraVenta>
